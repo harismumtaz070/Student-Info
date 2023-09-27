@@ -1,4 +1,3 @@
-
 let serialNumber = 1; // Initialize the serial number
 let totalScore = 0; // Initialize the total score
 
